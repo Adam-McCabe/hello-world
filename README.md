@@ -1,2 +1,3 @@
 # hello-world
-A First Repository
+A First Repository - Adam McCabe
+
